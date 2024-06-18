@@ -1,0 +1,7 @@
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Aditya\Desktop\Dot Net C#\CSharp\CSharp\obj\Debug\CSharp.pdb
