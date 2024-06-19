@@ -1,10 +1,10 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace ListExaple
 {
-    class Program
+    class ListExample
     {
         static void Main(string[] args)
         {
@@ -67,4 +67,4 @@ namespace ListExaple
             Console.ReadLine();
         }
     }
-}
+}*/

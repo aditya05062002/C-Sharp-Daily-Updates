@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace MultithreadingExample
 {
-    class Program
+    class Multithreading
     {
         static void Main(string[] args)
         {
